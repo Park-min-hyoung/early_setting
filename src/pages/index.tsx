@@ -1,7 +1,7 @@
 export default function Home() {
   return (
     <>
-      <h1>git action 부터 적용되면 좋겠다...</h1>
+      <h1>이제 git action 작업부터 진행될까요????</h1>
     </>
   );
 }

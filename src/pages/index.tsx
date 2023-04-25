@@ -1,7 +1,7 @@
 export default function Home() {
   return (
     <>
-      <h1>배포가 되는데 왜이러는 걸까???</h1>
+      <h1>브랜치 규칙적용</h1>
     </>
   );
 }
